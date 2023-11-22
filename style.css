@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+    background-color: rgb(50, 50, 50);
+}
+
+h1, h2, h4 {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    position: absolute;
+    left: 50%;
+    top: 800px;
+    transform: translate(-50%, -50%); 
+}
+
+h4 {
+    position: absolute;
+    left: 50%;
+    top: 825px;
+    transform: translate(-50%, -50%); 
+}
